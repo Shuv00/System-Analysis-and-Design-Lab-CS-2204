@@ -1,0 +1,44 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: #2EAF7D;
+  color: rgb(227, 217, 217);
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+.navbar{
+  display: flex;
+  
+}
+.logo{
+  font-size: 1.3rem;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.home {
+  align-items: center;
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 70px;
+}
+.navelement {
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+.login{
+  text-align: center;
+  margin-left: 600px;
+  margin-top: 15px;
+  border: 2px solid white;
+  border-width: 8px;
+  background-color: white;
+}
+.login:hover{
+  border: 2px solid #02353c;
+  border-width: 8px;
+  background-color: #02353c;
+}
+
+
