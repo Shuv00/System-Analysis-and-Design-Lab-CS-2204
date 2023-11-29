@@ -1,1 +1,1 @@
-this is my project for system analysis and design lab. i use different UML diagram here.
+this lab based on projects...and my project about waste management complaint system
